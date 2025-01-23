@@ -1,5 +1,2 @@
-nodeid(pubkey)_01|hardwareid_01
-nodeid(pubkey)_02|hardwareid_02
-nodeid(pubkey)_03|hardwareid_03
-
-
+nodeid(12D3KooWReoVojGZqaCL9xmK9Wt7cvYqH9mAxGSUAYSrzUyijibW)|fd7ee5bb65e41c75b30fa1c86a84e913ede93be3b95de89e919cd3f713824ea3
+nodeid(12D3KooWD1y78yniPzWfqDKc5HBscaiAyvU9Z1TbxvWVs695LZMX)|b9d64744b9738f7f8a7d098273ffbfa3b9535a07e950ada2bcf6d42e04655cdc
